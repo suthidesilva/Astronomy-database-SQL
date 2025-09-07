@@ -6,7 +6,7 @@ This repository contains the schema and sample data for an astronomy-related dat
 
 The "Astro.db" database is designed to store information about various astronomical objects such as galaxies, star systems, planets, moons, asteroids, comets, probes, and more. It includes tables for storing general attributes, orbital information, physical characteristics, electromagnetic spectrum data, discovery details, and more.
 
-![](https://github.com/suthidesilva/Astronomy-database-SQL/blob/main/Astro%20DB.png)
+![Astro DB Schema](https://github.com/suthidesilva/Astronomy-database-SQL/blob/main/Astro%20DB.png)
 
 ## Tables
 
